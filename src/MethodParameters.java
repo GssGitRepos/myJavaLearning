@@ -1,6 +1,12 @@
 class Robot {
 	String material = "Steel";
 	String joints = "hinge";
+	
+	String getMaterial() {
+		String mat = material;
+		return mat;
+
+	}
 
 	void speak() {
 		System.out.println("Hello There!");
@@ -23,8 +29,18 @@ class Robot {
 
 public class MethodParameters {
 	public static void main(String[] args) {
+	
 
 		Robot chitti = new Robot();
+		
+		chitti.material = "Iron";
+		String chittiMaterial = chitti.getMaterial();
+		System.out.println(chittiMaterial);
+		
+		
+		//getting variable value of the class using method 
+		
+		
 		chitti.speak();
 
 		// Passing parameter into the method
