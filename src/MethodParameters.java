@@ -3,8 +3,7 @@ class Robot {
 	String joints = "hinge";
 	
 	String getMaterial() {
-		String mat = material;
-		return mat;
+		return material;
 
 	}
 
