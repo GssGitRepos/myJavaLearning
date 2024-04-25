@@ -1,5 +1,3 @@
-/Scan.class
-/com.java.learning/
 /Array.class
 /Ball.class
 /Classes.class
@@ -8,14 +6,17 @@
 /GettersAndReturnValues.class
 /Helloworld.class
 /Ifelse.class
+/MethodParameters.class
 /MultidimensionalArray.class
 /Person.class
+/Robot.class
+/Scan.class
 /StringArray.class
 /Stringtest.class
 /SwitchCase.class
+/Testclass.class
 /Userinput.class
 /Variable.class
 /Whileloop.class
-/Testclass.class
-/MethodParameters.class
-/Robot.class
+/SettersAndThis.class
+/frog.class
