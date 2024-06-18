@@ -10,7 +10,7 @@ public class App {
 
 		System.out.println();
 		
-		Machine mach1 = new Machine();
+		Machine mach1 = new Machine("machine1");
 		mach1.running();
 		mach1.showInfo();
 	}
