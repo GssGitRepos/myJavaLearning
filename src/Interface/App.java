@@ -6,9 +6,13 @@ public class App {
 		
 		Person person1 = new Person();
 		person1.speak();
+		person1.showInfo();
+
+		System.out.println();
 		
 		Machine mach1 = new Machine();
 		mach1.running();
+		mach1.showInfo();
 	}
 
 }
